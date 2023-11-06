@@ -1,0 +1,43 @@
+# 便利ツール
+# pip-review
+# tqdm
+# joblib
+# jupyterlab
+
+# 分析系
+# pandas
+# numpy
+# scipy
+# xlrd
+# XlsxWriter
+# python-math
+# scikit-learn
+
+# 画像系
+# matplotlib
+# japanize-matplotlib
+# Pillow
+# opencv-python
+# folium
+# plotly
+# wordcloud
+
+# スクレイピング系
+# requests
+# beautifulsoup4
+# lxml
+# selenium
+
+# web系
+# Flask
+# Flask-Bootstrap4
+# Django
+# PyMySQL
+# tweepy
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn[standard]==0.20.0
+gunicorn>=20.1.0,<21.0.0
+
+sqlalchemy
+aiosqlite
